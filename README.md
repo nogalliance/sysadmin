@@ -1,4 +1,4 @@
-# ISPConfig
-Stuff related to managing ISPConfig
+# Sysadmin
+Stuff related to managing GNA services
 
-Please go to the [wiki](https://github.com/nogalliance/ispconfig/wiki)
+Please go to the [wiki](https://github.com/nogalliance/sysadmin/wiki)
