@@ -17,3 +17,11 @@ probably not be enforcable in court anyway. Therefore we just set a few basic gu
   - We don't want to create a mess
   - Suggestions are always welcome so good ideas can be turned into procedures
 - And follow the [code of conduct](CODE_OF_CONDUCT.md)
+
+# Communication
+
+We use the following communication channels:
+
+- The sysadmin@nogalliance.org mailing list
+- The sysadmin channel at https://nogalliance.slack.com
+- The GNA-Sysadmin Telegram group
